@@ -31,7 +31,7 @@ Currently, truthy tests has been provided in each of the application defined in 
 
 ## License
 
-The MIT License - Copyright (c) 2020 - Present, Decagon Institute. https://decagonhq.com/
+The MIT License - Copyright (c) 2020 - Present, Akorede Olawole. https://akoredeolawole.netlify.app/
 
 ## Owner
 
